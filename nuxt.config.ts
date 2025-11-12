@@ -52,11 +52,11 @@ export default defineNuxtConfig({
 
   llms: {
     domain: 'https://lana-docs.vercel.app/',
-    title: 'Maulana Firdaussyah - Portfolio',
-    description: 'Portfolio and documentation of Muhammad Maulana Firdaussyah, a Fullstack Web Developer specializing in React, Next.js, and AI/ML technologies.',
+    title: 'Using Dev - Muhammad Maulana Firdaussyah',
+    description: 'Portfolio and documentation of Using Dev (Muhammad Maulana Firdaussyah), a Fullstack Web Developer specializing in React, Next.js, and AI/ML technologies.',
     full: {
-      title: 'Maulana Firdaussyah - Full Portfolio & Documentation',
-      description: 'Complete portfolio and documentation showcasing projects, skills, and experience of Muhammad Maulana Firdaussyah.'
+      title: 'Using Dev - Muhammad Maulana Firdaussyah Documentation',
+      description: 'Complete portfolio and documentation showcasing projects, skills, and experience of Using Dev (Muhammad Maulana Firdaussyah).'
     },
     sections: [
       {
