@@ -12,7 +12,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Maulana Firdaussyah'
+    siteName: 'Using Dev'
   },
   header: {
     title: '',
@@ -32,7 +32,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()} Maulana Firdaussyah`,
+    credits: `Built with Nuxt UI • © ${new Date().getFullYear()} Using Dev`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-linkedin',
