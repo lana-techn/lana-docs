@@ -1,10 +1,7 @@
-# Nuxt Docs Template
+# Maulana Firdaussyah - Portfolio & Documentation
 
-[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
+[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-65fe08?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
 
-Use this template to build your own documentation with [Nuxt UI](https://ui.nuxt.com) quickly.
-
-- [Live demo](https://docs-template.nuxt.dev/)
 - [Documentation](https://ui.nuxt.com/docs/getting-started/installation)
 
 <a href="https://docs-template.nuxt.dev/" target="_blank">
@@ -15,15 +12,33 @@ Use this template to build your own documentation with [Nuxt UI](https://ui.nuxt
   </picture>
 </a>
 
-## Quick Start
+Welcome to my personal portfolio and documentation site! This is where I showcase my projects, skills, and journey as a Fullstack Web Developer.
 
-```bash [Terminal]
-npm create nuxt@latest -- -t github:nuxt-ui-templates/docs
-```
+- [Live Site](https://lana-docs.vercel.app/)
+- [GitHub](https://github.com/maulana-tech)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-firdaussyah-083362293)
+- [Linktree](https://linktr.ee/maulanafirdaussyah)
 
-## Deploy your own
+## About Me
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-name=docs&repository-url=https%3A%2F%2Fgithub.com%2Fnuxt-ui-templates%2Fdocs&demo-image=https%3A%2F%2Fui.nuxt.com%2Fassets%2Ftemplates%2Fnuxt%2Fdocs-dark.png&demo-url=https%3A%2F%2Fdocs-template.nuxt.dev%2F&demo-title=Nuxt%20Docs%20Template&demo-description=A%20documentation%20template%20powered%20by%20Nuxt%20Content.)
+I'm **Muhammad Maulana Firdaussyah**, a passionate Fullstack Web Developer and Accounting Information Systems student at Universitas Teknologi Digital Indonesia (UTDI). With 1.5+ years of experience as a Student Developer at GDSC and GDG on Campus Widyatama, I specialize in React, Next.js, JavaScript, Tailwind CSS, and AI/ML integration.
+
+## Tech Stack
+
+This portfolio is built with:
+- **Nuxt 4** - The Intuitive Vue Framework
+- **Nuxt UI** - Beautiful & Responsive UI Components
+- **Nuxt Content** - File-based CMS
+- **Tailwind CSS** - Utility-first CSS Framework
+- **TypeScript** - Type-safe JavaScript
+
+## Contact
+
+- 📧 Personal: [firdaussyah03@gmail.com](mailto:firdaussyah03@gmail.com)
+- 📧 Collaboration: [developerlana0@gmail.com](mailto:developerlana0@gmail.com)
+- 💼 LinkedIn: [muhammad-firdaussyah](https://www.linkedin.com/in/muhammad-firdaussyah-083362293)
+- 🐙 GitHub: [@maulana-tech](https://github.com/maulana-tech)
+- 🔗 Linktree: [maulanafirdaussyah](https://linktr.ee/maulanafirdaussyah)
 
 ## Setup
 
