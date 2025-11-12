@@ -1,6 +1,8 @@
-# Maulana Firdaussyah - Portfolio & Documentation
+# Using Dev - Maulana Firdaussyah
 
-[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-65fe08?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
+## Documentation
+
+[![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
 
 - [Documentation](https://ui.nuxt.com/docs/getting-started/installation)
 
@@ -21,7 +23,7 @@ Welcome to my personal portfolio and documentation site! This is where I showcas
 
 ## About Me
 
-I'm **Muhammad Maulana Firdaussyah**, a passionate Fullstack Web Developer and Accounting Information Systems student at Universitas Teknologi Digital Indonesia (UTDI). With 1.5+ years of experience as a Student Developer at GDSC and GDG on Campus Widyatama, I specialize in React, Next.js, JavaScript, Tailwind CSS, and AI/ML integration.
+I'm **Using Dev** (Muhammad Maulana Firdaussyah), a passionate Fullstack Web Developer and Accounting Information Systems student at Universitas Teknologi Digital Indonesia (UTDI). With 1.5+ years of experience as a Student Developer at GDSC and GDG on Campus Widyatama, I specialize in React, Next.js, JavaScript, Tailwind CSS, and AI/ML integration.
 
 ## Tech Stack
 
