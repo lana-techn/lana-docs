@@ -51,12 +51,12 @@ export default defineNuxtConfig({
   },
 
   llms: {
-    domain: 'https://docs-template.nuxt.dev/',
-    title: 'Nuxt Docs Template',
-    description: 'A template for building documentation with Nuxt UI and Nuxt Content.',
+    domain: 'https://lana-docs.vercel.app/',
+    title: 'Maulana Firdaussyah - Portfolio',
+    description: 'Portfolio and documentation of Muhammad Maulana Firdaussyah, a Fullstack Web Developer specializing in React, Next.js, and AI/ML technologies.',
     full: {
-      title: 'Nuxt Docs Template - Full Documentation',
-      description: 'This is the full documentation for the Nuxt Docs Template.'
+      title: 'Maulana Firdaussyah - Full Portfolio & Documentation',
+      description: 'Complete portfolio and documentation showcasing projects, skills, and experience of Muhammad Maulana Firdaussyah.'
     },
     sections: [
       {
