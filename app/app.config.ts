@@ -12,7 +12,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt Docs Template'
+    siteName: 'Maulana Firdaussyah'
   },
   header: {
     title: '',
@@ -26,45 +26,45 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-templates/docs',
+      'to': 'https://github.com/maulana-tech',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `Built with Nuxt UI • © ${new Date().getFullYear()} Maulana Firdaussyah`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'icon': 'i-simple-icons-linkedin',
+      'to': 'https://www.linkedin.com/in/muhammad-firdaussyah-083362293',
       'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
+      'aria-label': 'LinkedIn'
     }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://go.nuxt.com/x',
+      'icon': 'i-lucide-mail',
+      'to': 'mailto:firdaussyah03@gmail.com',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Email'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/maulana-tech',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'GitHub'
     }]
   },
   toc: {
     title: 'Table of Contents',
     bottom: {
-      title: 'Community',
-      edit: 'https://github.com/nuxt-ui-templates/docs/edit/main/content',
+      title: 'Connect',
+      edit: 'https://github.com/lana-techn/lana-docs/edit/main/content',
       links: [{
-        icon: 'i-lucide-star',
-        label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
+        icon: 'i-lucide-link',
+        label: 'Linktree',
+        to: 'https://linktr.ee/maulanafirdaussyah',
         target: '_blank'
       }, {
-        icon: 'i-lucide-book-open',
-        label: 'Nuxt UI docs',
-        to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
+        icon: 'i-simple-icons-linkedin',
+        label: 'LinkedIn',
+        to: 'https://www.linkedin.com/in/muhammad-firdaussyah-083362293',
         target: '_blank'
       }]
     }
