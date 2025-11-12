@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Maulana Firdaussyah - Fullstack Developer
-  description: Portfolio and documentation of Muhammad Maulana Firdaussyah, a passionate Fullstack Web Developer specializing in React, Next.js, and AI/ML technologies.
+  title: Using Dev - Maulana Firdaussyah
+  description: Portfolio and documentation of Using Dev - Muhammad Maulana Firdaussyah, a passionate Fullstack Web Developer specializing in React, Next.js, and AI/ML technologies.
 ---
 
 ::u-page-hero{class="dark:bg-gradient-to-b from-neutral-900 to-neutral-950"}
@@ -12,7 +12,7 @@ orientation: horizontal
 :hero-background
 
 #title
-Hi, I'm [Maulana]{.text-primary}.
+Hi, I'm [Using Dev]{.text-primary}.
 
 #description
 A dedicated Fullstack Web Developer and Accounting Information Systems student with a passion for building innovative, user-focused web applications and exploring AI/ML technologies. Specialized in React, Next.js, and modern web development.
