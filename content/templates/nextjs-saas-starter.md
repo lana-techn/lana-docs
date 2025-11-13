@@ -785,22 +785,22 @@ Error: Page not found
 - 📓 [Supabase Docs](https://supabase.com/docs)
 
 ### 🎥 Video Tutorials
-- 🎬 [Setup & Installation](link-youtube)
-- 🎬 [Customization Guide](link-youtube)
-- 🎬 [Deployment Tutorial](link-youtube)
-- 🎬 [Stripe Integration Deep Dive](link-youtube)
+- 🎬 Setup & Installation (coming soon)
+- 🎬 Customization Guide (coming soon)
+- 🎬 Deployment Tutorial (coming soon)
+- 🎬 Stripe Integration Deep Dive (coming soon)
 
 ### 💬 Community & Support
-- 💬 **Discord Community**: [Join](link-discord)
+- 💬 **Discord Community**: Coming soon
 - 📧 **Email Support**: support@yourdomain.com
 - 📱 **WhatsApp**: +62-xxx-xxxx-xxxx
-- 🐦 **Twitter**: [@yourhandle](link-twitter)
+- 🐦 **Twitter**: @yourhandle
 
 ### 🛠️ Useful Tools
-- 🎨 [Figma Design Files](link-figma)
-- 💻 [VS Code Extensions](docs/vscode-extensions.md)
-- 📦 [Component Library](docs/components.md)
-- 🎯 [Deployment Checklist](docs/deployment-checklist.md)
+- 🎨 Figma Design Files (coming soon)
+- 💻 VS Code Extensions
+- 📦 Component Library
+- 🎯 Deployment Checklist
 
 ---
 
@@ -814,7 +814,7 @@ Terima kasih telah memilih **Next.js SaaS Starter Kit**!
 - 🔗 Share ke developer lain
 - 💬 Join community Discord
 
-**We'd love to see what you build!** Tag kami [@yourhandle] saat launch aplikasi Anda! 🚀
+**We'd love to see what you build!** Tag kami @yourhandle saat launch aplikasi Anda! 🚀
 
 ---
 
@@ -827,7 +827,7 @@ Terima kasih telah memilih **Next.js SaaS Starter Kit**!
 **Contact:**
 - 📧 support@yourdomain.com
 - 💬 WhatsApp: +62-xxx-xxxx-xxxx
-- 🌐 [Documentation](https://docs.yourdomain.com)
+- 🌐 Documentation: docs.yourdomain.com
 
 **Response Time:**
 - Email: 24-48 jam
@@ -835,14 +835,10 @@ Terima kasih telah memilih **Next.js SaaS Starter Kit**!
 
 ---
 
-<div align="center">
-  
 ### 🚀 Happy Building!
 
 Made with ❤️ by [Your Name/Company]
 
 © 2024 All rights reserved.
-
-[Website](https://yourdomain.com) • [Docs](https://docs.yourdomain.com) • [Discord](link) • [Twitter](link)
 
 </div>

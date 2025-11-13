@@ -7,7 +7,7 @@ navigation:
 
 # 📄 [PRODUCT NAME] - Quick Start Guide
 
-> **One-page reference for fast setup. For detailed docs, see [full documentation](./README.md)**
+> **One-page reference for fast setup. For detailed docs, see full documentation**
 
 ---
 
@@ -161,7 +161,7 @@ npm install
 
 ## 📞 Need Help?
 
-- 📖 **Full Documentation**: docs/README.md
+- 📖 **Full Documentation**: See full docs
 - 📧 **Email Support**: support@yourdomain.com
 - 💬 **WhatsApp**: +62-xxx-xxxx-xxxx
 - 🌐 **Help Center**: yourdomain.com/help
@@ -170,10 +170,10 @@ npm install
 
 ## 🎯 Next Steps
 
-1. **Read full documentation** → `docs/README.md`
-2. **Customize configuration** → `docs/CONFIGURATION.md`
-3. **Deploy to production** → `docs/DEPLOYMENT.md`
-4. **Join community** → [Discord/Forum Link]
+1. **Read full documentation** → See docs folder
+2. **Customize configuration** → Check config files
+3. **Deploy to production** → Follow deployment guide
+4. **Join community** → Discord/Forum (coming soon)
 
 ---
 
