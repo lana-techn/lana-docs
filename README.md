@@ -18,7 +18,7 @@ Welcome to my personal portfolio and documentation site! This is where I showcas
 
 - [Live Site](https://lana-docs.vercel.app/)
 - [GitHub](https://github.com/maulana-tech)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-firdaussyah-083362293)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-maulana-firdaussyah-083362293)
 - [Linktree](https://linktr.ee/maulanafirdaussyah)
 
 ## About Me
