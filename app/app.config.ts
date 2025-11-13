@@ -25,6 +25,10 @@ export default defineAppConfig({
     search: true,
     colorMode: true,
     links: [{
+      'icon': 'i-lucide-archive',
+      'to': '/templates',
+      'aria-label': 'Templates'
+    }, {
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/maulana-tech',
       'target': '_blank',
@@ -32,11 +36,11 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()} Using Dev`,
+    credits: `Built with Using Dev • © ${new Date().getFullYear()} Using Dev`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-linkedin',
-      'to': 'https://www.linkedin.com/in/muhammad-firdaussyah-083362293',
+      'to': 'https://www.linkedin.com/in/muhammad-maulana-firdaussyah-083362293',
       'target': '_blank',
       'aria-label': 'LinkedIn'
     }, {
@@ -64,7 +68,7 @@ export default defineAppConfig({
       }, {
         icon: 'i-simple-icons-linkedin',
         label: 'LinkedIn',
-        to: 'https://www.linkedin.com/in/muhammad-firdaussyah-083362293',
+        to: 'https://www.linkedin.com/in/muhammad-maulana-firdaussyah-083362293',
         target: '_blank'
       }]
     }
