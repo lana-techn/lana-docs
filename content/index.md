@@ -12,10 +12,10 @@ orientation: horizontal
 :hero-background
 
 #title
-Hi, I'm [Using Dev]{.text-primary}.
+Hi, there is [Using Dev]{.text-primary}.
 
 #description
-A dedicated Fullstack Web Developer and Accounting Information Systems student with a passion for building innovative, user-focused web applications and exploring AI/ML technologies. Specialized in React, Next.js, and modern web development.
+I Maulana the dedicated Fullstack Web Developer and Accounting Information Systems student with a passion for building innovative, user-focused web applications and exploring AI/ML technologies. Specialized in React, Next.js, and modern web development.
 
 #links
   :::u-button
